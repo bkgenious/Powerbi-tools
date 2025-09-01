@@ -1,0 +1,25 @@
+[build]
+command = "python -m pip install --upgrade pip && pip install -r requirements.txt && npm ci && python build.py"
+publish = "dist"
+
+[build.environment]
+NODE_VERSION = "18.19.0"
+PYTHON_VERSION = "3.11"
+NPM_CONFIG_LEGACY_PEER_DEPS = "true"
+PIP_USER = "0"
+
+[[redirects]]
+from = "/api/*"
+to = "/.netlify/functions/api"
+status = 200
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
+
+[functions]
+directory = "netlify/functions"
+
+[functions.api]
+runtime = "python3.11"

@@ -1,0 +1,13 @@
+/**
+ * PowerBI Genius - Proprietary Software
+ * Copyright (c) 2025 [Your Name/Company Name]. All Rights Reserved.
+ * 
+ * This file is part of PowerBI Genius and is protected by copyright and trade secret laws.
+ * UNAUTHORIZED COPYING, MODIFICATION, DISTRIBUTION, OR REVERSE ENGINEERING OF THIS SOFTWARE,
+ * VIA ANY MEDIUM, IS STRICTLY PROHIBITED.
+ * 
+ * The receipt or possession of this source code and/or related information does not
+ * convey or imply any right to use, reproduce, disclose or distribute its contents.
+ * 
+ * For licensing inquiries, please contact: [Your Contact Information]
+ */

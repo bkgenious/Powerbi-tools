@@ -1,0 +1,13 @@
+{
+  "name": "powerbi-genius",
+  "version": "1.0.0",
+  "description": "AI-powered tools for Power BI",
+  "private": true,
+  "scripts": {
+    "build": "python build.py"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "openai": "^4.0.0"
+  }
+}

@@ -1,0 +1,98 @@
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2025 [Your Name/Company Name]. All Rights Reserved.
+
+1. DEFINITIONS
+
+"Software" refers to all source code, object code, user interfaces, documentation, and related materials contained in this repository or project, including but not limited to:
+- All Python files (.py)
+- JavaScript files (.js)
+- HTML templates (.html)
+- CSS files (.css)
+- Configuration files
+- Documentation
+- Associated APIs and services
+
+2. LICENSE GRANT
+
+This license explicitly PROHIBITS:
+a) Reverse engineering, decompiling, or disassembling the Software
+b) Modifying, translating, or creating derivative works
+c) Copying, reproducing, or duplicating the Software
+d) Distributing, sublicensing, or transferring the Software
+e) Creating competing or alternative products based on the Software
+f) Removing or altering any proprietary notices or labels
+g) Using any part of the code or algorithms for creating similar applications
+
+3. INTELLECTUAL PROPERTY RIGHTS
+
+All title, ownership, and intellectual property rights in and to the Software shall remain with [Your Name/Company Name]. This includes, but is not limited to:
+- Patents
+- Copyrights
+- Trade secrets
+- Trademarks
+- Proprietary methods and algorithms
+- User interface designs
+- Architecture and system design
+
+4. CONFIDENTIALITY
+
+The Software contains valuable trade secrets and proprietary information. You agree to maintain strict confidentiality and not disclose:
+- Source code
+- Algorithms
+- Architecture
+- Implementation details
+- Business logic
+- Security measures
+
+5. RESTRICTIONS
+
+You may NOT:
+a) Use the Software to create competing products
+b) Analyze the Software for the purpose of creating similar applications
+c) Extract or reuse any part of the algorithms or business logic
+d) Share access credentials or enable unauthorized access
+e) Bypass any security measures or licensing mechanisms
+
+6. TERMINATION
+
+This license automatically terminates if you violate any terms. Upon termination, you must:
+a) Cease all use of the Software
+b) Destroy all copies
+c) Remove all installations
+d) Delete all downloaded materials
+
+7. WARRANTIES AND DISCLAIMERS
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. [Your Name/Company Name] DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED.
+
+8. LIABILITY LIMITATIONS
+
+IN NO EVENT SHALL [Your Name/Company Name] BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+9. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of [Your Country/State]. You consent to the exclusive jurisdiction and venue in the courts of [Your City/State].
+
+10. ENFORCEMENT
+
+[Your Name/Company Name] reserves the right to:
+a) Audit compliance with this license
+b) Seek injunctive relief
+c) Pursue legal action for violations
+d) Recover attorney fees and costs
+e) Seek monetary damages
+
+11. SURVIVAL
+
+Sections regarding confidentiality, restrictions, intellectual property rights, and liability limitations survive termination.
+
+12. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between the parties concerning the Software.
+
+BY USING, DOWNLOADING, OR ACCESSING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE.
+
+Last Updated: September 1, 2025
+[Your Name/Company Name]
+All Rights Reserved.
